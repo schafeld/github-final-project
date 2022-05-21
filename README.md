@@ -7,12 +7,12 @@ Project for »Getting Started with Git and GitHub«, Coursera IBM Fullstack
 
 **Input:**
 
-     **p**, principal amount
+     p, principal amount
    
-     **t**, time period in years
+     t, time period in years
    
-     **r**, annual rate of interest
+     r, annual rate of interest
    
 **Output**
 
-     **simple interest** = p*t*r
+     simple interest** = p*t*r
